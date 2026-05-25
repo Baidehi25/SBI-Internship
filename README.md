@@ -1,9 +1,9 @@
-# 🏦 Customer Lifecycle Classification & Product Recommendation System
+# Customer Lifecycle Classification & Product Recommendation System
 ### Data Analytics Internship — State Bank of India
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project was developed as part of a Data Analytics Internship at **State Bank of India (SBI)**, one of India's largest public sector banks. The core objective was to move beyond rigid, date-based customer segmentation and instead build a **dynamic, behaviour-driven classification system** that maps customers to their actual financial lifecycle stage.
 
@@ -11,7 +11,7 @@ This project was developed as part of a Data Analytics Internship at **State Ban
 
 ---
 
-## 🧠 Problem Statement
+## Problem Statement
 
 Traditional customer segmentation at banks often relies on crude metrics such as the number of days since account opening or product purchase. This approach fails to capture the **true financial maturity and behaviour** of a customer, leading to:
 
@@ -24,7 +24,7 @@ This project addresses these gaps by building a **rule-based recommendation engi
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Classify customers based on their actual financial lifecycle stage using multi-dimensional profiling
 - Identify **up-sell and cross-sell** opportunities for targeted financial product offerings
@@ -33,7 +33,7 @@ This project addresses these gaps by building a **rule-based recommendation engi
 
 ---
 
-## 🔍 Key Contributions
+## Key Contributions
 
 - **Rule-Based Recommendation Engine** — Designed and implemented decision logic to match customer profiles with the most relevant banking products (e.g., fixed deposits, insurance, mutual funds, credit cards, loans)
 - **Behavioural & Transactional Analysis** — Analyzed large-scale customer relationship data to extract patterns across spending, saving, and product usage behaviour
@@ -43,7 +43,7 @@ This project addresses these gaps by building a **rule-based recommendation engi
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Tools / Technologies |
 |---|---|
@@ -55,7 +55,7 @@ This project addresses these gaps by building a **rule-based recommendation engi
 
 ---
 
-## 📊 Methodology
+## Methodology
 
 ### 1. Data Collection & Understanding
 - Worked with structured datasets containing multiple customer relationship attributes including demographics, account types, transaction history, and product holdings
@@ -79,7 +79,7 @@ This project addresses these gaps by building a **rule-based recommendation engi
 
 ---
 
-## 💡 Key Learnings
+## Key Learnings
 
 - Hands-on experience working with **large-scale banking CRM data**
 - Understanding of **customer lifecycle management** in the financial services domain
